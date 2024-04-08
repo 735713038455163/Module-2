@@ -30,18 +30,18 @@ Before and after refactoring per year as follows:
 ### 2017:
 
 # Before:
-![2017beforerefactor](https://github.com/735713038455163/Module-2/blob/main/Resources/2017beforerefactor.PNG)
+![2017beforerefactor](https://github.com/735713038455163/Module-2/blob/master/Resources/2017beforerefactor.PNG)
 
 # After:
-![2017afterrefactor](https://github.com/735713038455163/Module-2/blob/main/Resources/2017afterrefactor.PNG)
+![2017afterrefactor](https://github.com/735713038455163/Module-2/blob/master/Resources/2017afterrefactor.PNG)
 
 ### 2018:
 
 # Before:
-![2018beforerefactor](https://github.com/735713038455163/Module-2/blob/main/Resources/2018beforerefactor.PNG)
+![2018beforerefactor](https://github.com/735713038455163/Module-2/blob/master/Resources/2018beforerefactor.PNG)
 
 # After:
-![2018afterrefactor](https://github.com/735713038455163/Module-2/blob/main/Resources/2018afterrefactor.PNG)
+![2018afterrefactor](https://github.com/735713038455163/Module-2/blob/master/Resources/2018afterrefactor.PNG)
 
 ## Results
 The refactoring was successful with this data. The VBA macro triggering pop-ups message boxes and inputs, read and change, cell values and formatting cells. Replacing hard- coded values utilizing the concatenation “+” operator. The lines activated in the worksheet twice by the row count and then inside the for loop was improved to efficiently run the macro for both years to make sure it is working correctly and more efficiently. 
